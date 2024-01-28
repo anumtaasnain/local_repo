@@ -1,2 +1,1 @@
-this file is for developer
-and plz no show this
+this file is for developer not showing
